@@ -17,6 +17,7 @@ nav li {
 nav {
      display:inline;
      margin-left: 15px;
+}
 
 nav a {
       text-transform: uppercase;
