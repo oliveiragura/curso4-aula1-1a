@@ -13,12 +13,14 @@ nav li {
  #logo {
       width:250px; 
      display: inline-block;
-     position:absolute;
-     right: 30px
-     top: 82px;
+ }
+
 nav {
      display:inline;
      margin-left: 15px;
+     position:absolute;
+     right: 30px;
+     top: 82px;
 }
 
 nav a {
