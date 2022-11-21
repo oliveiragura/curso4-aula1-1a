@@ -37,7 +37,9 @@ nav a {
 
 
 
-.produtos li{
+.produtos{
+ margin: 0auto;
+}
   display: inline-block;
 }
 
