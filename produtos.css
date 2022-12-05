@@ -41,9 +41,27 @@ nav a {
  margin: 0auto;
 }
   display: inline-block;
+.produtos{
+padding: 50px 0;
+.item{
+ width: 1076px;
+ height:260px;
+text-aling
+width: 30px;
+display:inline-blok:
+text-aling;center;
+border-color:red; 
+border-width 3px;
+border-style:solid;
+
+
+.produtos li h2{
+font-size: 30px;
+font-weight: bold;
+padding: 10px;
 }
 
-.item{
- width: 350px;
- height:260px;
+.produtos li p {
+margin-top: 10px;
+font-size: 20px;
 }
